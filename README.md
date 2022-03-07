@@ -28,7 +28,7 @@ We provide three sample datasets.
 |-------------------|-----------------------------------|-------------------------------------|
 | iPhone11Pro       | :heavy_multiplication_x:  | :heavy_multiplication_x: |
 | iPadPro 12.9 4gen | :heavy_check_mark:  | :heavy_multiplication_x:  |
-| iPadPro 12.9 5gen | avy_multiplication_x: |  :heavy_check_mark: |
+| iPadPro 12.9 5gen | :heavy_multiplication_x: |  :heavy_check_mark: |
 
  1. iPhone 11 Pro: Here everything is fine. The factory intrinsics and our calibrated values match quite well.
  2. iPadPro 11 2gen: With this iPad the factory calibration will also be quite good. In this case however, the depth and color images do not align if recorded with ARKit API.
