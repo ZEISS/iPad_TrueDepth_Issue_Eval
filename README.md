@@ -31,8 +31,8 @@ We provide three sample datasets.
 | iPadPro 12.9 5gen | :heavy_multiplication_x: |  :heavy_check_mark: |
 
  1. iPhone 11 Pro: Here everything is fine. The factory intrinsics and our calibrated values match quite well.
- 2. iPadPro 11 2gen: With this iPad the factory calibration will also be quite good. In this case however, the depth and color images do not align if recorded with ARKit API.
- 3. iPadPro 12.9 2gen: Here the factory intrinsics do not match the calibrated intrinsics. If the factory intrinsics are used to unproject the depth values you can see that they are wrong.
+ 2. iPadPro 12.9 4gen: With this iPad the factory calibration will also be quite good. In this case however, the depth and color images do not align if recorded with ARKit API. (same problem: iPadPro 11 2gen)
+ 3. iPadPro 12.9 2gen: Here the factory intrinsics do not match the calibrated intrinsics. If the factory intrinsics are used to unproject the depth values you can see that they are wrong. (same problem: iPadPro 11 3gen)
 
 ## Camera calibration - Verifying factory intrinsics
 In a first step, we can calibrate the intrinsics of the TrueDepth RGB camera and verify the factory intrinsics proveded by the API. 
