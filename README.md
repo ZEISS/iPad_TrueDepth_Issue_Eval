@@ -4,7 +4,7 @@ This repository contains:
 1. Python code to reproduce the results from the accompanying paper 
 2. A barbones iOS app to record depth and RGB data with either the AVFoundation or the ARKit API
 
-The issues are described in detail in the following paper:
+The issues are described in detail in the following [paper](https://arxiv.org/abs/2201.10865):
 
     @article{urban2022issues,
         title={On the Issues of TrueDepth Sensor Data for Computer Vision Tasks Across Different iPad Generations},
