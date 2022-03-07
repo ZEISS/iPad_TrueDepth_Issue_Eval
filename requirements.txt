@@ -1,0 +1,5 @@
+opencv-contrib-python
+natsort
+matplotlib
+seaborn
+ArgumentParser
