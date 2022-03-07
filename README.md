@@ -89,4 +89,4 @@ The results will look like this. The blue line at 200mm is just an indication an
 
 
 # Contributing
-To contribute you must sign the [ZEISS CLA](zeiss_cla.txt).
+To contribute you must sign the **ZEISS CLA** depending if your are acting as an [individual](zeiss_indv_cla.txt) or represent a [company](zeiss_corp_cla.txt).
