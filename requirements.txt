@@ -1,4 +1,4 @@
-opencv-contrib-python
+opencv-contrib-python==4.5.4.60
 natsort
 matplotlib
 seaborn
